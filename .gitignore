@@ -1,0 +1,34 @@
+# Oracle SQL Developer
+.sqldeveloper/
+system*/
+SqlDeveloperProjects/
+
+# PL/SQL Developer (Allround Automations)
+*.bak
+PLSQLDeveloper.ini
+
+# Toad for Oracle
+*.tod
+*.tda
+*.tbf
+
+# Oracle logs, spool files, and trace files
+*.log
+*.lst
+*.out
+*.trc
+*.trm
+
+# Database export/dump files
+*.dmp
+*.exp
+
+# IDEs & Code Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Operating System files
+.DS_Store
+Thumbs.db
